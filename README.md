@@ -26,3 +26,10 @@ based on a set of physical features.
 - Accuracy
 - Confusion Matrix
 - Classification​​​​​​​​​​​​​​​​
+## 📈 Model Results
+
+| Metric | Value |
+|--------|-------|
+| Test Accuracy | 82% |
+| Model | Classification |
+| Technique | Supervised Learning |
